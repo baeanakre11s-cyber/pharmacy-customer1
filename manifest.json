@@ -1,0 +1,15 @@
+{
+  "name": "صيدلية نور - الطلبات",
+  "short_name": "نور",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/nhPqw7Zr/Whats-App-Image-2026-08-28-at-12-48-18-PM.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
